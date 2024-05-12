@@ -1,5 +1,3 @@
-## pchaganti > erato
-
 - [The Subversive Farmer](https://thesubversivefarmer.net/blog/cultivating-beauty) #biblio
 - [Granta Magazine](https://granta.com/) #biblio
 - [The New Atlantis](https://www.thenewatlantis.com/) #biblio
