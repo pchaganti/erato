@@ -1,3 +1,7 @@
+- [Smart Home on FIRE: Amplifying and Accelerating Domestic Surveillance](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/12925/8484)
+- [Landlord 2.0: Tech’s New Rentier Capitalism](https://archive.ph/2019.04.07-072745/https://onezero.medium.com/landlord-2-0-techs-new-rentier-capitalism-a0bfe491b463?gi=9eab9dd256ef)
+- [Euphoria of the rentier](https://newleftreview.org/issues/ii129/articles/javier-moreno-zacares-euphoria-of-the-rentier.pdf)
+- [Finance Capitalism versus Industrial Capitalism: The Rentier Resurgence and Takeover](https://michael-hudson.com/wp-content/uploads/2021/07/04866134211011770.pdf)
 - [The Subversive Farmer](https://thesubversivefarmer.net/blog/cultivating-beauty)
 - [Granta Magazine](https://granta.com/)
 - [The New Atlantis](https://www.thenewatlantis.com/)
