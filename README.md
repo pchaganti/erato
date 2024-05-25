@@ -1,3 +1,5 @@
+- [What Produced the China Miracle?](https://foreignpolicy.com/2024/05/22/china-economic-rise-state-deng-xiaoping-history-beijing-state-future-demographics/)
+- [The City Journal](https://www.city-journal.org/the-magazine)
 - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
 - [The End of Lean Production... and What’s Ahead](https://labornotes.org/2024/05/end-lean-production-and-whats-ahead)
 - [New World Order?](https://www.phenomenalworld.org/analysis/new-world-order/)
