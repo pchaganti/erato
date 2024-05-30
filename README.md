@@ -1,3 +1,8 @@
+- [The Insulin Empire](https://thebaffler.com/after-the-fact/the-insulin-empire-ongweso-jr-sofides) 
+- [An Introduction To Auto-Callables](https://www.globalcapital.com/article/28mwscw1lroke9irbemf4/learning-curve/an-introduction-to-auto-callables) 
+- [Masters of War](https://archive.ph/2024.05.25-045110/https://harpers.org/archive/2024/06/masters-of-war-letter-from-germany-thomas-meaney/) 
+- [Repress U., Class of 2024](https://tomdispatch.com/repress-u-class-of-2024/) 
+- [Disneyland With the Death Penalty, Revisited](https://www.wired.com/2012/04/opinion-jeyaretnam-disneyland-death-penalty/)
 - [What Produced the China Miracle?](https://foreignpolicy.com/2024/05/22/china-economic-rise-state-deng-xiaoping-history-beijing-state-future-demographics/)
 - [The City Journal](https://www.city-journal.org/the-magazine)
 - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
