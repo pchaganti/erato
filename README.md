@@ -1,3 +1,8 @@
+- [How influencer cartels manipulate social media](https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain) 
+- [The state of academic publishing in 3 graphs, 6 trends, and 4 thoughts](https://dynamicecology.wordpress.com/2024/04/29/the-state-of-academic-publishing-in-3-graphs-5-trends-and-4-thoughts/) 
+- [Melmoth the Wanderer](https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer) 
+- [Inside the Black Box](https://www.phenomenalworld.org/analysis/inside-the-black-box/)
+- [The Collapse Is Coming. Will Humanity Adapt?](https://thereader.mitpress.mit.edu/the-collapse-is-coming-will-humanity-adapt/) 
 - [The Insulin Empire](https://thebaffler.com/after-the-fact/the-insulin-empire-ongweso-jr-sofides) 
 - [An Introduction To Auto-Callables](https://www.globalcapital.com/article/28mwscw1lroke9irbemf4/learning-curve/an-introduction-to-auto-callables) 
 - [Masters of War](https://archive.ph/2024.05.25-045110/https://harpers.org/archive/2024/06/masters-of-war-letter-from-germany-thomas-meaney/) 
