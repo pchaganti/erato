@@ -1,3 +1,7 @@
+- [Why global GDP might be $7trn bigger than everyone thought](https://archive.ph/2024.06.11-022431/https://www.economist.com/finance-and-economics/2024/06/06/why-global-gdp-might-be-7trn-bigger-than-everyone-thought) 
+- [Semafor Technology](https://www.semafor.com/vertical/tech) 
+- [Economic Termites Are Everywhere](https://www.thebignewsletter.com/p/economic-termites-are-everywhere) 
+- [Fate of Empires](https://people.uncw.edu/kozloffm/glubb.pdf) 
 - [How influencer cartels manipulate social media](https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain) 
 - [The state of academic publishing in 3 graphs, 6 trends, and 4 thoughts](https://dynamicecology.wordpress.com/2024/04/29/the-state-of-academic-publishing-in-3-graphs-5-trends-and-4-thoughts/) 
 - [Melmoth the Wanderer](https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer) 
