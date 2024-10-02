@@ -7,6 +7,7 @@
 - [The easy we make difficult, but it takes a long time.](https://mythfighter.com/2024/06/19/the-easy-we-make-difficult-but-it-takes-a-long-time/)
 - [How to understand central bank QE losses](https://www.ft.com/content/a2a3921d-c4de-4f0c-9eec-e8ea0345f8b4)
 - [Rest of World](https://restofworld.org/)
+- [Phenomenal World](https://www.phenomenalworld.org/)
 - [China has become a scientific superpower](https://www.economist.com/science-and-technology/2024/06/12/china-has-become-a-scientific-superpower)
 - [Why global GDP might be $7trn bigger than everyone thought](https://archive.ph/2024.06.11-022431/https://www.economist.com/finance-and-economics/2024/06/06/why-global-gdp-might-be-7trn-bigger-than-everyone-thought) 
 - [Semafor Technology](https://www.semafor.com/vertical/tech) 
