@@ -1,3 +1,14 @@
+- [Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions](https://arxiv.org/pdf/2411.14405) #ai
+- [Machiavelli and the Emergence of the Private Study](https://publicdomainreview.org/essay/machiavelli-and-the-emergence-of-the-private-study/)
+- [The Public Domain Review](https://publicdomainreview.org/)
+- [How China Could Re-Dollarize The World](https://indi.ca/how-china-starts-printing-usd/)
+- [Large Language Model Automatic Computer for Extensive Code Generation](https://arxiv.org/pdf/2310.02003)
+- [Lost In The Future](https://www.wheresyoured.at/lost-in-the-future/)
+- [Building and Debugging Multi-Agent Systems](https://www.microsoft.com/en-us/research/uploads/prod/2024/08/AutoGen_Studio-12.pdf) #ai
+- [Programming Fonts - Test Drive](https://www.programmingfonts.org/) #eclectic
+- [RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models](https://arxiv.org/abs/2310.16340) #ai
+- [GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension](https://arxiv.org/abs/2312.17294) #ai
+- [EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction](https://arxiv.org/abs/2401.06201) #ai
 - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with) #ai
 - [Why large language models struggle with long contexts](https://www.understandingai.org/p/why-large-language-models-struggle) #ai
 - [What Is Entropy?](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
