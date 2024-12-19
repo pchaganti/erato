@@ -1,3 +1,4 @@
+- [Microeconomics of free software](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
 - [A Radical Way of Unleashing a Generation of Geniuses](https://www.wired.com/2013/10/free-thinkers/)
 - [The most important speech of the decade?](https://www.thomasfazi.com/p/the-most-important-speech-of-the)
 - [Pere Portabella looks back](/news-opinion/sight-sound-magazine/interviews/pere-portabella-bunuel-lorca)
