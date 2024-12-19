@@ -1,3 +1,9 @@
+- [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with) #ai
+- [Why large language models struggle with long contexts](https://www.understandingai.org/p/why-large-language-models-struggle) #ai
+- [What Is Entropy?](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
+- [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
+- [Semiconductors and Modern Industrial Policy](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.4.81)
+- [LLM Routing](https://freedium.cfd/https://towardsdatascience.com/llm-routing-intuitively-and-exhaustively-explained-5b0789fe27aa) #ai
 - [Microeconomics of free software](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
 - [A Radical Way of Unleashing a Generation of Geniuses](https://www.wired.com/2013/10/free-thinkers/)
 - [The most important speech of the decade?](https://www.thomasfazi.com/p/the-most-important-speech-of-the)
