@@ -9,7 +9,6 @@
 - [LLM Routing](https://freedium.cfd/https://towardsdatascience.com/llm-routing-intuitively-and-exhaustively-explained-5b0789fe27aa) #ai
 
 ## Technology and Economics
-- [How China Could Re-Dollarize The World](https://indi.ca/how-china-starts-printing-usd/)
 - [Semiconductors and Modern Industrial Policy](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.4.81)
 - [Microeconomics of free software](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
 - [How to understand central bank QE losses](https://www.ft.com/content/a2a3921d-c4de-4f0c-9eec-e8ea0345f8b4)
