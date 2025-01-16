@@ -8,7 +8,7 @@
 - [Why large language models struggle with long contexts](https://www.understandingai.org/p/why-large-language-models-struggle) #ai
 - [LLM Routing](https://freedium.cfd/https://towardsdatascience.com/llm-routing-intuitively-and-exhaustively-explained-5b0789fe27aa) #ai
 
-## Technology and its discontents
+## Technology 
 - [Semiconductors and Modern Industrial Policy](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.4.81)
 - [Microeconomics of free software](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
 - [How to understand central bank QE losses](https://www.ft.com/content/a2a3921d-c4de-4f0c-9eec-e8ea0345f8b4)
@@ -16,7 +16,7 @@
 - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet)
 - [Specific process by which Google enshittified its search](https://pluralistic.net/2024/04/24/naming-names/)
 
-## Society
+## Society and its discontents
 - [Machiavelli and the Emergence of the Private Study](https://publicdomainreview.org/essay/machiavelli-and-the-emergence-of-the-private-study/)
 - [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
 - [A Radical Way of Unleashing a Generation of Geniuses](https://www.wired.com/2013/10/free-thinkers/)
@@ -34,7 +34,6 @@
 - [Fate of Empires](https://people.uncw.edu/kozloffm/glubb.pdf) 
 - [How influencer cartels manipulate social media](https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain) 
 - [The state of academic publishing in 3 graphs, 6 trends, and 4 thoughts](https://dynamicecology.wordpress.com/2024/04/29/the-state-of-academic-publishing-in-3-graphs-5-trends-and-4-thoughts/) 
-- [Melmoth the Wanderer](https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer) 
 - [Inside the Black Box](https://www.phenomenalworld.org/analysis/inside-the-black-box/)
 - [The Collapse Is Coming. Will Humanity Adapt?](https://thereader.mitpress.mit.edu/the-collapse-is-coming-will-humanity-adapt/) 
 - [The Insulin Empire](https://thebaffler.com/after-the-fact/the-insulin-empire-ongweso-jr-sofides) 
