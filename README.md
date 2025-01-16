@@ -14,6 +14,7 @@
 - [How to understand central bank QE losses](https://www.ft.com/content/a2a3921d-c4de-4f0c-9eec-e8ea0345f8b4)
 - [Companies Are Just a Graph of Algorithms](https://danielmiessler.com/p/companies-graph-of-algorithms)
 - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet)
+- [Specific process by which Google enshittified its search](https://pluralistic.net/2024/04/24/naming-names/)
 
 ## Society
 - [Machiavelli and the Emergence of the Private Study](https://publicdomainreview.org/essay/machiavelli-and-the-emergence-of-the-private-study/)
@@ -37,7 +38,6 @@
 - [Inside the Black Box](https://www.phenomenalworld.org/analysis/inside-the-black-box/)
 - [The Collapse Is Coming. Will Humanity Adapt?](https://thereader.mitpress.mit.edu/the-collapse-is-coming-will-humanity-adapt/) 
 - [The Insulin Empire](https://thebaffler.com/after-the-fact/the-insulin-empire-ongweso-jr-sofides) 
-- [An Introduction To Auto-Callables](https://www.globalcapital.com/article/28mwscw1lroke9irbemf4/learning-curve/an-introduction-to-auto-callables) 
 - [Masters of War](https://archive.ph/2024.05.25-045110/https://harpers.org/archive/2024/06/masters-of-war-letter-from-germany-thomas-meaney/) 
 - [Repress U., Class of 2024](https://tomdispatch.com/repress-u-class-of-2024/) 
 - [Disneyland With the Death Penalty, Revisited](https://www.wired.com/2012/04/opinion-jeyaretnam-disneyland-death-penalty/)
@@ -53,10 +53,8 @@
 - [The Subversive Farmer](https://thesubversivefarmer.net/blog/cultivating-beauty)
 - [Granta Magazine](https://granta.com/)
 - [The New Atlantis](https://www.thenewatlantis.com/)
-- [Programming Fonts - Test Drive](https://www.programmingfonts.org/) #eclectic
 - [Lost In The Future](https://www.wheresyoured.at/lost-in-the-future/)
 - [A Russian teacher in America](https://faculty.utrgv.edu/eleftherios.gkioulekas/OGS/Misc/ARUSSIAN.PDF)
 - [Forecasting China?](https://newleftreview.org/sidecar/posts/forecasting-china)
-- [Specific process by which Google enshittified its search](https://pluralistic.net/2024/04/24/naming-names/)
 - [Costs of War - Big Tech and Silicon Valley](https://watson.brown.edu/costsofwar/files/cow/imce/papers/2023/2024/Silicon%20Valley%20MIC.pdf)
 - [Fitzcarraldo Editions](https://fitzcarraldoeditions.com/)
