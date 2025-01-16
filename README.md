@@ -8,14 +8,14 @@
 - [Why large language models struggle with long contexts](https://www.understandingai.org/p/why-large-language-models-struggle) #ai
 - [LLM Routing](https://freedium.cfd/https://towardsdatascience.com/llm-routing-intuitively-and-exhaustively-explained-5b0789fe27aa) #ai
 
-## Technology and Economics
+## Technology and its discontents
 - [Semiconductors and Modern Industrial Policy](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.4.81)
 - [Microeconomics of free software](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
 - [How to understand central bank QE losses](https://www.ft.com/content/a2a3921d-c4de-4f0c-9eec-e8ea0345f8b4)
 - [Companies Are Just a Graph of Algorithms](https://danielmiessler.com/p/companies-graph-of-algorithms)
 - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet)
 
-## History and Society
+## Society
 - [Machiavelli and the Emergence of the Private Study](https://publicdomainreview.org/essay/machiavelli-and-the-emergence-of-the-private-study/)
 - [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
 - [A Radical Way of Unleashing a Generation of Geniuses](https://www.wired.com/2013/10/free-thinkers/)
